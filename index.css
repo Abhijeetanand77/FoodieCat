@@ -1,12 +1,68 @@
 
-html, body{
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-    height : 100%;
-    width : 100%;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .header{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+    border: 2px solid black;
+
+}
+.nav-items > ul{
+    display: flex;
+    list-style-type: none;
 }
 
+.nav-items > ul > li {
+    padding : 10px;
+}
 
-#container {
-    background-color: yellow ;
+.logo{
+    width:150px;
+    padding: 5px;
+}
+
+.card{
+    width: 20rem;
+    border : 0.2em solid black;
+    Margin :1em;
+    padding: 1em ;
+}
+.card > img {
+    width: 100%;
+}
+
+.restraunt-list{
+    display: flex;
+    flex-wrap : wrap;
 
 }
+
+.shimmer-card{
+    width: 20rem;
+    height: 10em;
+    background-color: grey;
+    Margin :1em;
+    padding: 1em ;
+
+} */
